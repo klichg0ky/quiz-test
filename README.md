@@ -1,5 +1,5 @@
 # quiz-test
-
+Quiz test with Vue JS, Bootstrap
 ## Project setup
 ```
 npm install
